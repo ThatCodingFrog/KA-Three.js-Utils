@@ -1,2 +1,2 @@
 # KA-Three.js-Utils
-A repository for additional code utilities for Three.js in Khan Academy
+This repository is to contain code (such as the OrbitControls) into a separate file to be used on Khan Academy. Access is through JSDelivr
